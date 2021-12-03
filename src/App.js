@@ -1,7 +1,8 @@
 import React from 'react';
 import './App.css';
-import About from './components/About.js';
-import Projects from './components/Projects.js';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import About from './components/About';
+import Projects from './components/Projects';
 import Navbar  from './components/Navbar';
 
 function App() {

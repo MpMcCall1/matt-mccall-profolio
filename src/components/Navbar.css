@@ -1,0 +1,43 @@
+.logo{
+    margin: 110%;
+    color:#fff;
+    /* top: 50%;
+    position: absolute;
+    transform: translate(0, -50%); */
+}
+
+.hamBar{
+    color:#fff;
+}
+
+/* Menu Links */
+nav a.nav-link{
+    /* font-weight: 500; */
+    letter-spacing: .0375rem;
+    cursor: pointer;
+}
+
+nav ul li{
+    text-transform: uppercase;
+}
+
+.navbar-nav > li > a{
+    margin-right: .75rem;
+    margin-left: .75rem;
+    color: #fff !important
+}
+
+.navbar-nav > li > a:hover, .navbar-nav >li >a:focus{
+    color: rgb(150, 150, 150) !important
+}
+
+.navbar-nav > li > a.active, .navbar-nav > li > a.active:focus{
+    color: rgb(150, 150, 150) !important
+}
+
+.navbar-brand{
+    max-width: 17.25rem;
+    padding: 0 !important;
+    height: 6rem;
+}
+
