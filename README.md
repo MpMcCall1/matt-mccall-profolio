@@ -6,3 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 I will fill out the proper information once finished. Pushing code around weekly in the dev branch.
 
+Once the website is done, I will merge the branches. Then add a few projects into it. 
+
+-Integrate API
+-Develop API
+-Wrap in docker container
+-Automated Python testing
