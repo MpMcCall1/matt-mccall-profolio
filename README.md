@@ -4,4 +4,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ***********************THIS IS A WORK IN PROGRESS**********************
 
-I will fill out the proper information once finished.
+I will fill out the proper information once finished. Pushing code around weekly in the dev branch.
+
